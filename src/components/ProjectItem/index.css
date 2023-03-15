@@ -1,0 +1,13 @@
+.project-item {
+  margin: 10px;
+  background-color: #ffffff;
+}
+
+.project-image {
+  width: 100%;
+}
+
+.project-name {
+  margin-left: 5px;
+  font-family: Roboto;
+}
